@@ -1,0 +1,13 @@
+{
+    "name": "vendor/r-f-i-211277746",
+    "description": "Description of project RFI_211277746.",
+    "authors": [
+        {
+            "name": "Jeffrey Williams",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+
+    }
+}
